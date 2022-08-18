@@ -1,5 +1,4 @@
-## Oiii eu sou a Rafaella Ballerini, criadora de conteúdo de programação e tecnologia!
-<div align="center">
+## Oiii eu sou o Gabriel.
   <a href="https://github.com/rafaballerini">
   
 </div>
