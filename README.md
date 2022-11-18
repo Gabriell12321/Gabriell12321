@@ -8,8 +8,12 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabriell12321&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=c9d1d9&bg_color=0d1117" alt="Gabriell12321 github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell12321&layout=compact&hide_border=true&title_color=FF1493&text_color=FF1493&bg_color=0d1117" />
   
+  
+ 
    <a href="https://instagram.com/gabriell_azay" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gabriell_azay-05122A?style=flat&logo=instagram" alt="instagram"/>
+     
+ <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=" alt="html"/>
  
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
