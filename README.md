@@ -13,9 +13,6 @@
    <a href="https://instagram.com/gabriell_azay" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-gabriell_azay-05122A?style=flat&logo=instagram" alt="instagram"/>
      
- <img align="center" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=" alt="html"/>
- 
- 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
   
   
