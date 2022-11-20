@@ -27,6 +27,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" target="_blank"></a>
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gabriel-gabriel-603a83257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
     
 <a href="https://www.kooapp.com/profile/gabriel60G9BR" target="_blank"><img src="https://img.icons8.com/color/48/null/koo.png" target="_blank"></a>
 
