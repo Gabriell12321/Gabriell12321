@@ -29,6 +29,7 @@
 <a href="" target="_blank"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" target="_blank"></a>
 <a href="https://www.linkedin.com/in/gabriel-gabriel-603a83257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href="https://discord.gg/C9pYHdJQvh" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/@trash1295" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
     
 <a href="https://www.kooapp.com/profile/gabriel60G9BR" target="_blank"><img src="https://img.icons8.com/color/35/null/koo.png" target="_blank"></a>
 
