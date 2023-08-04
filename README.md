@@ -4,12 +4,9 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff0000&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Gabriel+Garcia;I'm+18+years+old;I'm+from+Brazil+:%29)](https://git.io/typing-svg)
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gabriell12321&bg_color=1e1a1c&color=ffffff&line=eb0000&point=f50000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriell12321&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
+
 
 
 
