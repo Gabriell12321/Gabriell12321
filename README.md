@@ -11,6 +11,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell12321&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/Gabriell12321)
 
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff0000&height=120&section=footer"/>
