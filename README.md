@@ -3,18 +3,24 @@
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500## 📈 Commit Analysis>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=🤖+Desenvolvedor+Full+Stack+%26+IA;💻+Especialista+em+Machine+Learning;🚀+Criando+o+Futuro+com+Código;🧠+AI+Engineer+%26+Data+Scientist;🌟+Transformando+Dados+em+Inteligência;🔥+Passionate+AI+Developer;⚡+Building+Tomorrow's+Tech&font=Fira%20Code&center=true&width=480&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG" />
+  <img src="https://readme-typi| 🧠 Project | 📈 Status | 🎯 Technology | 🚀 Progress |
+|------------|-----------|---------------|---------------|
+| **AI Chatbot** | 🟢 Active | GPT + Python | ![90%](https://progress-bar.dev/90?color=00ff00) |
+| **Computer Vision** | 🟡 Development | OpenCV + TensorFlow | ![75%](https://progress-bar.dev/75?color=ffff00) |
+| **Sentiment Analysis** | 🟢 Active | BERT + PyTorch | ![85%](https://progress-bar.dev/85?color=00ff00) |
+| **Recommendation System** | 🔴 Planning | Scikit-learn | ![25%](https://progress-bar.dev/25?color=ff0000) |
+| **Speech Recognition** | 🟡 Research | Whisper API | ![40%](https://progress-bar.dev/40?color=ffff00) |demolab.com/?lines=🤖+Full+Stack+Developer+%26+AI;💻+Machine+Learning+Specialist;🚀+Creating+the+Future+with+Code;🧠+AI+Engineer+%26+Data+Scientist;🌟+Transforming+Data+into+Intelligence;🔥+Passionate+AI+Developer;⚡+Building+Tomorrow's+Tech&font=Fira%20Code&center=true&width=480&height=50&duration=3000&pause=1000&color=FF0000" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriell12321&color=red&style=for-the-badge&label=VISUALIZAÇÕES" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Gabriell12321?color=red&style=for-the-badge&label=SEGUIDORES" alt="Followers" />
-  <img src="https://img.shields.io/badge/Idade-19-red?style=for-the-badge" alt="Age" />
-  <img src="https://img.shields.io/badge/Localização-Brasil-red?style=for-the-badge" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Gabriell12321&color=red&style=for-the-badge&label=VIEWS" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Gabriell12321?color=red&style=for-the-badge&label=FOLLOWERS" alt="Followers" />
+  <img src="https://img.shields.io/badge/Age-19-red?style=for-the-badge" alt="Age" />
+  <img src="https://img.shields.io/badge/Location-Brazil-red?style=for-the-badge" alt="Location" />
   <img src="https://img.shields.io/badge/Focus-AI%20%26%20ML-red?style=for-the-badge" alt="AI Focus" />
 </div>
 
@@ -31,7 +37,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Statistics
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
@@ -67,7 +73,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🏆 Troféus GitHub
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-87b7-250e5f8744ff.gif" width="200">
@@ -94,7 +100,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 📈 Gráfico de Atividades
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284075-5b69b354-c4be-4b9b-82b1-d6e2c8e0b9c1.gif" width="300">
@@ -106,7 +112,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-## 📊 Estatísticas Avançadas
+## 📊 Advanced Statistics
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
@@ -138,7 +144,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## ⏰ Tempo de Codificação
+## ⏰ Coding Time
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -159,7 +165,7 @@
   <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriell12321&repo=seu-projeto-principal&theme=radical&hide_border=true" />
 </div>
 
-## 🤖 Stack de Inteligência Artificial
+## 🤖 Artificial Intelligence Stack
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -209,7 +215,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🧠 Atualmente Estudando IA
+## 🧠 Currently Studying AI
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv&theme=dark" />
@@ -230,7 +236,7 @@
 
 </div>
 
-### 🎯 Projetos de IA em Desenvolvimento
+### 🎯 AI Projects in Development
 
 <div align="center">
   <img width="30%" src="https://github-readme-stats.vercel.app/api/pin/?username=Gabriell12321&repo=ai-chatbot&theme=radical&hide_border=true" />
@@ -246,7 +252,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect with Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
@@ -276,7 +282,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd4-87b7-250e5f8744ff.gif" width="200">
 </div>
 
-## � Sobre Mim
+## 👨‍💻 About Me
 
 <img align="right" alt="Developer vector created by storyset - www.freepik.com" height="380" src="https://user-images.githubusercontent.com/102830259/172987694-5a8c7a39-7dfe-4a21-8974-b3b7c2cf72c6.png">
 
@@ -284,7 +290,7 @@
 class DeveloperGabriel {
   name: string = "Gabriel Garcia";
   age: number = 19;
-  location: string = "Brasil 🇧🇷";
+  location: string = "Brazil 🇧🇷";
   role: string = "Full Stack Developer";
   
   languages: string[] = [
@@ -305,10 +311,10 @@ class DeveloperGabriel {
   ];
   
   currentFocus: string = "React & TypeScript";
-  passion: string = "Transformar ideias em código! 🚀";
+  passion: string = "Transforming ideas into code! 🚀";
   
   getMotivation(): string {
-    return "Sempre buscando aprender algo novo todos os dias!";
+    return "Always seeking to learn something new every day!";
   }
 }
 
@@ -322,7 +328,7 @@ console.log(gabriel.getMotivation());
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 📈 Gráficos de Produtividade
+## 📈 Productivity Charts
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284075-5b69b354-c4be-4b9b-82b1-d6e2c8e0b9c1.gif" width="300">
@@ -355,7 +361,7 @@ console.log(gabriel.getMotivation());
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🐍 Contribuições
+## 🐍 Contributions
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100">
@@ -371,7 +377,7 @@ console.log(gabriel.getMotivation());
   <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="200">
 </div>
 
-## 💭 Citação Motivacional
+## 💭 Motivational Quote
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
@@ -402,7 +408,7 @@ console.log(gabriel.getMotivation());
   <img src="https://capsule-render.vercel.app/api?type=rect&color=ff0000&height=4&section=header&%20render">
 </div>
 
-## 🎯 Métricas de Performance
+## 🎯 Performance Metrics
 
 <div align="center">
   <img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gabriell12321&theme=radical" />
@@ -414,7 +420,7 @@ console.log(gabriel.getMotivation());
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gabriell12321&bg_color=ff0000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true&title_color=ffffff" width="100%"/>
 </div>
 
-## 🎯 Objetivos para 2025 - Foco em IA
+## 🎯 2025 Goals - AI Focus
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
@@ -426,7 +432,7 @@ console.log(gabriel.getMotivation());
 
 ```mermaid
 graph TD
-    A[🤖 Metas IA 2025] --> B[🧠 Deep Learning Avançado]
+    A[🤖 AI Goals 2025] --> B[🧠 Advanced Deep Learning]
     A --> C[👁️ Computer Vision Projects]
     A --> D[🗣️ NLP & Chatbots]
     A --> E[☁️ MLOps & Cloud AI]
@@ -463,14 +469,14 @@ graph TD
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 </div>
 
-## 🔬 Laboratório de IA
+## 🔬 AI Laboratory
 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gabriell12321&show_icons=true&theme=noctis_minimus&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=00ff00" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriell12321&theme=noctis_minimus&hide_border=true&bg_color=0d1117&title_color=ff0000&layout=compact" />
 </div>
 
-### 🤖 Modelos em Desenvolvimento
+### 🤖 Models in Development
 
 <div align="center">
 
@@ -488,7 +494,7 @@ graph TD
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d1117-008000.gif" width="900">
 </div>
 
-## 🏆 Conquistas em IA
+## 🏆 AI Achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabriell12321&theme=matrix&no-frame=true&no-bg=true&margin-w=4&row=2" />
@@ -511,9 +517,9 @@ graph TD
 
 <div align="center">
   
-### 🤖 *"A inteligência artificial é a nova eletricidade."* - Andrew Ng
+### 🤖 *"Artificial intelligence is the new electricity."* - Andrew Ng
 
-### 🧠 *"Machine Learning é o futuro, e o futuro é agora!"* - Gabriel Garcia
+### 🧠 *"Machine Learning is the future, and the future is now!"* - Gabriel Garcia
 
 ### ⭐ Se você gostou dos meus projetos de IA, deixe uma estrela! ⭐
 
@@ -521,7 +527,7 @@ graph TD
 <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7763.gif" width="100">
 
-### 🚀 Construindo o amanhã com Inteligência Artificial hoje!
+### 🚀 Building tomorrow with Artificial Intelligence today!
 
 </div>
 
@@ -548,5 +554,5 @@ graph TD
 </div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Obrigado%20pela%20visita!%20🤖&fontSize=42&fontColor=ffffff&animation=twinkling"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Thanks%20for%20visiting!%20🤖&fontSize=42&fontColor=ffffff&animation=twinkling"/>
 </div>
