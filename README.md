@@ -24,14 +24,6 @@
 <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=Gabriell12321&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" width="100%"/>
 </div>
-
-
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff"/>
-</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabriell12321/gabriell12321/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabriell12321/gabriell12321/output/pacman-contribution-graph.svg">
@@ -39,3 +31,11 @@
 </picture>
 
 ###
+
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer&text=Obrigado%20pela%20visita!&fontSize=20&fontColor=ffffff"/>
+</div>
+
