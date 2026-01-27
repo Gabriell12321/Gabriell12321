@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Gabriell12321&color=000000&style=for-the-badge&label=VISITAS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Gabriell12321?color=000000&style=for-the-badge&label=SEGUIDORES" alt="Followers" />
-  <img src="https://img.shields.io/badge/Idade-19-000000?style=for-the-badge" alt="Age" />
+  <img src="https://img.shields.io/badge/Idade-20-000000?style=for-the-badge" alt="Age" />
   <img src="https://img.shields.io/badge/Localização-Brasil-000000?style=for-the-badge" alt="Location" />
 
 </div>
